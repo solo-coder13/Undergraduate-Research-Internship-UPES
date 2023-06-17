@@ -1,0 +1,6 @@
+1)How Can Natural Language Processing (NLP) Support Emergency Management? 
+  NLP for Classification of Tweets During Crisis-Events
+
+2)Face Age Prediction using Image processing
+
+3) Prediction of Coronary Artery Disease Via Calcium Scoring of Chest CTs
