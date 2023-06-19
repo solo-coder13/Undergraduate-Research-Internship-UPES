@@ -21,3 +21,6 @@ c. Segmentation: This technique can be used to identify different structures in 
 Problem: Plant diseases are a major threat to crop productivity and food security. Early detection and diagnosis of plant diseases is essential for effective management and control. Traditional methods for plant disease detection, such as visual inspection and manual diagnosis, are time-consuming, labor-intensive, and prone to human error.
 
 Solution: A hybrid classification scheme for plant disease detection in image processing is a promising approach for addressing the challenges of traditional methods. A hybrid classification scheme combines the strengths of different machine learning algorithms to improve the accuracy and robustness of plant disease detection.
+
+
+4.   Researchers have been working on silicon chips that can directly integrate neural network design as a result of the popularity of Deep Learning concepts that rely on neuron-based models. At the hardware level, these chips are programmed to simulate the human brain. In a typical chip, data must typically be transported between the central processing unit and storage blocks, which uses energy and adds time overhead. In a neuromorphic semiconductor, data is assembled and stored analogously, and it can create synapses as needed to conserve time and energy.
